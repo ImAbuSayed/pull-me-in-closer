@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Pull Me In Closer
+
+This log tracks the cryptographic history and versioning for the song **Pull Me In Closer** (pull-me-in-closer).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-02T14:21:40.787996 | `v1` | `db640bdeba47cd4dc1189a010b8a630c3ed89d825b4e11e45bec0861a4a8ad26` | `b3cc65e4704caa3dd84198db6b128d58eb5a0e57739bcd11ec7931ac5a531495` | `2026-06-02_pull-me-in-closer-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
