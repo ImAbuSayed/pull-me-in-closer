@@ -15,7 +15,7 @@
 | **Written On** | June 02, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/pull-me-in-closer/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Pull Me In Closer](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pull-me-in-closer/) |
+| **Get License** | [Official Music Licensing for Pull Me In Closer](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pull-me-in-closer/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/2562)
 
 ---
 
