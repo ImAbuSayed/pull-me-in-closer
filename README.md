@@ -15,7 +15,7 @@
 | **Written On** | June 02, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/pull-me-in-closer/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Pull Me In Closer](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pull-me-in-closer/) |
+| **Get License** | [Get License For Pull Me In Closer](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pull-me-in-closer/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel the static when you look my way
+> I want the ending of this endless day
+> The shadows melt into the midnight air
+> I just want to get lost inside your stare
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
